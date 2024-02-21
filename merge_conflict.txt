@@ -1,0 +1,3 @@
+ste é o conteúdo original do arquivo
+branch 1
+branch 2
